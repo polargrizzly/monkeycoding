@@ -8,4 +8,3 @@ print("Glad to meet you,",name,"!")
 if name == 'IGOR' or name == 'Igor' or name == "igor":
     print("Nice ass!")
 
-
